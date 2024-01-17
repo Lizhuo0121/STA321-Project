@@ -6,6 +6,6 @@ In this study, we outline our method of processing stock market data, focusing o
 In the subsequent sections, we will delve into the difficulties encountered in labeling market order types, the varying outputs for different order types, and the strategies implemented to enhance performance. We will also describe the architecture of our processing system, including the role of mappers and reducers in our MapReduce framework and the rationale behind our sorting module.
 
 <div align="center">
-    <img src="figure1.png" alt="Structure Overview" width="600" height="400">
+    <img src="figure1.png" alt="Structure Overview" width="700" height="400">
 </div>
 
